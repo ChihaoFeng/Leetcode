@@ -31,3 +31,10 @@ class Solution:
         fast.next = head
         slow.next = None
         return new_head
+
+
+"""
+count the total length
+Time: O(n)
+Space: O(1)
+"""
